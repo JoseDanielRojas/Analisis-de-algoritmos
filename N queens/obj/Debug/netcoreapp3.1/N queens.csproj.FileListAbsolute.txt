@@ -1,0 +1,13 @@
+C:\Users\Jose\source\repos\N queens\bin\Debug\netcoreapp3.1\N queens.exe
+C:\Users\Jose\source\repos\N queens\bin\Debug\netcoreapp3.1\N queens.deps.json
+C:\Users\Jose\source\repos\N queens\bin\Debug\netcoreapp3.1\N queens.runtimeconfig.json
+C:\Users\Jose\source\repos\N queens\bin\Debug\netcoreapp3.1\N queens.runtimeconfig.dev.json
+C:\Users\Jose\source\repos\N queens\bin\Debug\netcoreapp3.1\N queens.dll
+C:\Users\Jose\source\repos\N queens\bin\Debug\netcoreapp3.1\N queens.pdb
+C:\Users\Jose\source\repos\N queens\obj\Debug\netcoreapp3.1\N queens.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\N queens\obj\Debug\netcoreapp3.1\N queens.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\N queens\obj\Debug\netcoreapp3.1\N queens.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\N queens\obj\Debug\netcoreapp3.1\N queens.AssemblyInfo.cs
+C:\Users\Jose\source\repos\N queens\obj\Debug\netcoreapp3.1\N queens.dll
+C:\Users\Jose\source\repos\N queens\obj\Debug\netcoreapp3.1\N queens.pdb
+C:\Users\Jose\source\repos\N queens\obj\Debug\netcoreapp3.1\N queens.genruntimeconfig.cache
